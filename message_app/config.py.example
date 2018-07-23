@@ -1,0 +1,9 @@
+# データベースの設定を記入する
+db = {
+    'ENGINE': 'django.db.backends.mysql',
+    'NAME': 'message_app',
+    'USER': '',
+    'PASSWORD': '',
+    'HOST': '',
+    'PORT': '3306',
+}
