@@ -34,7 +34,6 @@ cp message_app/config.py.example message_app/config.py
 - マイグレーション
 
 ```
-python manage.py makemigrations
 python manage.py migrate
 ```
 
