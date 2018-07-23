@@ -5,7 +5,8 @@
     <a href="{% url 'message_form' %}">作成</a>
     {% for message in message_list %}
         <p>
-            ID: {{ message.id }}  <b>{{ message.text }}</b>
+            ID: {{ message.id }}
+            <b>{{ message.text }}</b>
             作成: {{ message.created_at|date:"Y-m-d h:m" }}
             更新: {{ message.updated_at|date:"Y-m-d h:m" }}
         </p>
