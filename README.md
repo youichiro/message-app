@@ -1,6 +1,8 @@
 ## 実行環境
 
 - Python 3.6.4
+- Django 2.0
+- MySQL
 
 ## 手順
 
@@ -24,7 +26,7 @@ mysql -u root -p
 pip install -r requirements.txt
 ```
 
-- コンフィグファイルの作成
+- 設定ファイルの編集
 
 ```
 cp message_app/config.py.example message_app/config.py
