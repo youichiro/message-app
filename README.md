@@ -1,8 +1,8 @@
 ## 実行環境
 
 - Python 3.6.4
-- Django 2.0
-- MySQL
+- Django 2.0.7
+- MySQL 5.7
 
 ## 手順
 
