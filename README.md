@@ -10,7 +10,7 @@
 
 ```
 git clone git@github.com:youichiro/message-app.git
-cd message-app
+cd message-app-with-django
 ```
 
 - データベースの作成
