@@ -50,3 +50,7 @@ python manage.py migrate
 python manage.py runserver
 # localhost:8000/view/を開く
 ```
+
+<br>
+
+[実装手順](https://github.com/youichiro/message-app-with-django/blob/master/recipe.md)
